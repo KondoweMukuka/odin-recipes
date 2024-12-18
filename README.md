@@ -5,7 +5,7 @@ odin-recipes is a project that is used to practice application of HTML foundatio
 * Elements and Tags
 * HTML Boilerplate
 * Working with text
-  * Headings (\<H1\> to \<H6\>)
+  * Headings (\<h1\> to \<h6\>)
   * Paragraphs \<p\>
   * Bold text with Emphasis \<strong\>
   * Italic text with Emphasis \<em\>
