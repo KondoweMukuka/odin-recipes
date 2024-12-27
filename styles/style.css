@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+    line-height: 1.5;
+}
+* {
+    font-family: Helvetica, "Brush Script MT", 'lucida handwriting', Cursive;
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size:50px;
+}
+
+h3 {
+    font-family:'Courier New', Courier, monospace;
+    font-size:25px;
+}
+h2 {
+    background-color: rgb(5, 139, 139);
+    color:darkgoldenrod;
+    text-align: center;
+    font-size:76px;
+}
+
+li, p {
+    width: 600px;
+    text-align: justify;
+}
