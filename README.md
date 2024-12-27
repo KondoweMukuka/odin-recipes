@@ -17,3 +17,16 @@ odin-recipes is a project that is used to practice application of HTML foundatio
 * Images \<img\>
 
 ## Note: CSS and JS will be worked on a later date
+
+## CSS FOUNDATIONS APPLIED
+* Typographic styles
+  * font-family
+  * font-size
+  * color
+  * text-align
+  * background-color
+  * font-weight
+
+* Sizing styles
+  * width
+  * height
