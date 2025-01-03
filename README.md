@@ -1,5 +1,5 @@
 # Odin Recipes
-odin-recipes is a project that is used to practice application of HTML foundations by building a rudimental recipes website.  
+odin-recipes is a project that is used to practice application of HTML foundations by building a simple recipes website.  
 
 ## HTML FOUNDATIONS APPLIED
 * Elements and Tags
@@ -16,6 +16,14 @@ odin-recipes is a project that is used to practice application of HTML foundatio
 * Links \<a\>
 * Images \<img\>
 
+* Styling and Scripting attributes
+  * type selectors
+  * class selectors
+  * id selectors
+  * chain selectors
+  * group selectors
+  * descendant combinator
+
 ## Note: CSS and JS will be worked on a later date
 
 ## CSS FOUNDATIONS APPLIED
@@ -30,3 +38,8 @@ odin-recipes is a project that is used to practice application of HTML foundatio
 * Sizing styles
   * width
   * height
+
+* positioning styles
+  * Box model content-box padding border and margin
+  * display: block, inline and inline-block for outer display of elements
+  * div and span for styling elements
