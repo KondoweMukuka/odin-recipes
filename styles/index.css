@@ -3,3 +3,31 @@
     padding: 0px;
     margin: 0px;
 }
+
+div {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #EEEEEE;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+a {
+    /* Remove underline from links */
+    text-decoration: none;
+
+    /* link typographic styles */
+    color: #EEEEEE;
+
+    /* Change external display of links and border style */
+    display: block;
+    border: 5px dashed #EEEEEE;
+    border-radius: 15px;
+}
+
+a:hover {
+    color:rgb(226, 165, 175);
+    border: 5px dashed rgb(226, 165, 175);
+}
