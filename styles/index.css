@@ -20,6 +20,7 @@ a {
 
     /* link typographic styles */
     color: #EEEEEE;
+    font-weight: bold;
 
     /* Change external display of links and border style */
     display: block;
