@@ -6,6 +6,7 @@
 
 body {
     margin:20px;
+    background-color: #fff;
 }
 
 img {
@@ -17,10 +18,15 @@ h1, h3 {
     margin-top:10px;
     margin-left: auto;
     margin-right: auto;
+    color: #af152e;
 }
 
 h1 {
     padding-bottom: 15px;
+}
+
+h2, h4 {
+    font-family: cursive;
 }
 
 h4 {
@@ -39,6 +45,24 @@ p, li {
 }
 li {
     padding-left: 10px;
+}
+
+a {
+    /* Remove underline from links */
+    text-decoration: none;
+
+    /* link typographic styles */
+    color: #000000;
+    font-weight: bold;
+    display: inline-block;
+    border: 5px dashed #af152e;
+    padding: 5px;
+
+}
+
+a:hover {
+    color:#af152e;
+    border: 5px dashed #af152e;
 }
 
 .center-li {
