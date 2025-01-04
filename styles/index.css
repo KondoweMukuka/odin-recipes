@@ -31,3 +31,22 @@ a:hover {
     color:rgb(226, 165, 175);
     border: 5px dashed rgb(226, 165, 175);
 }
+
+.header, .footer {
+    height: 12.5vh;
+    line-height: 12.5vh;
+    background-color: #476072;
+}
+
+.main {
+    height: 75vh;
+    background-color: #548CA8;
+    display: flex;
+}
+
+.size {
+    width: 30vw;
+    height: 70vh;
+    margin: auto;
+    line-height: 70vh;
+}
