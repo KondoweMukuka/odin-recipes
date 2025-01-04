@@ -19,10 +19,15 @@ p, ul, ol {
     width: 600px;
     margin-left: auto;
     margin-right: auto;
+    line-height: 2;
 }
 
-.center {
-    width: 600px;
+li {
+    padding-left: 10px;
+}
+
+.center-li {
+    width: 565px;
     margin-left: auto;
     margin-right: auto;
 }
