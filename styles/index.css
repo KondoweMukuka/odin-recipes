@@ -27,6 +27,7 @@ a {
     display: block;
     border: 5px dashed #EEEEEE;
     border-radius: 15px;
+    padding: 25vh 25px;
 }
 
 a:hover {
@@ -52,8 +53,12 @@ a:hover {
 
 .size {
     width: 30vw;
-    height: 70vh;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 70vh;
+    /* Ensures that the all .size elements grows proportionally with viewport size */
+    flex: 1;
+    /* Change the inner display to flex */
+    display: flex;
+     /* Vertically aligns contents of div with <a> */
+    align-items: center;
+    /* Horizontally aligns content of div with <a> */
+    justify-content: center;
 }
